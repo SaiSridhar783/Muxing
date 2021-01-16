@@ -1,0 +1,12 @@
+[
+  "--ui-language",
+  "en",
+  "--audio-tracks",
+  "2",
+  "--no-video",
+  "--no-subtitles",
+  "--language",
+  "2:en",
+  "--track-name",
+  "2:English with Funimation Soundtrack"
+]
